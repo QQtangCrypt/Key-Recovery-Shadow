@@ -1,0 +1,21 @@
+﻿  源.cpp
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(312,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(312,12): message : 请考虑在格式字符串中使用“%lld”
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(312,12): message : 请考虑在格式字符串中使用“%Id”
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(312,12): message : 请考虑在格式字符串中使用“%I64d”
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(312,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(312,12): message : 请考虑在格式字符串中使用“%llx”
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(312,12): message : 请考虑在格式字符串中使用“%Ix”
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(312,12): message : 请考虑在格式字符串中使用“%I64x”
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(231,20): warning C4101: “finish”: 未引用的局部变量
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(262,19): warning C4101: “temp0”: 未引用的局部变量
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(235,24): warning C4101: “message”: 未引用的局部变量
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(260,19): warning C4101: “gk15”: 未引用的局部变量
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(232,12): warning C4101: “duration”: 未引用的局部变量
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(258,19): warning C4101: “gk16”: 未引用的局部变量
+D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\Plaintext_Recovery_of_Shadow\源.cpp(262,26): warning C4101: “temp1”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Plaintext_Recovery_of_Shadow.vcxproj -> D:\研究\分析\Shadow\Code\Linear attack for Shadow\Plaintext_Recovery_of_Shadow\x64\Release\Plaintext_Recovery_of_Shadow.exe

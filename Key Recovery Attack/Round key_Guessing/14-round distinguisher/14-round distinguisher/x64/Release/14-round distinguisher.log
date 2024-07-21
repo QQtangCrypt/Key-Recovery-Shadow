@@ -1,0 +1,85 @@
+﻿  14-round distinguisher.cpp
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(316,12): warning C4101: “i”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,463): warning C4101: “LL1_14_3”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,359): warning C4101: “L1_14_0”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,191): warning C4101: “rk_15_2_2”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,109): warning C4101: “RR0_16”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,57): warning C4101: “RR0_15”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,387): warning C4101: “LL1_14_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,61): warning C4101: “R1_15_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,147): warning C4101: “rk_15_2_3”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(441,19): warning C4101: “t0”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,273): warning C4101: “LL0_14_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,264): warning C4101: “L0_14_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,117): warning C4101: “RR0_15_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,180): warning C4101: “rk_15_3_0”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,416): warning C4101: “L1_14_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,378): warning C4101: “L1_14_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,19): warning C4101: “tR0_15_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,224): warning C4101: “rk_15_3_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,406): warning C4101: “LL1_14_2”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,330): warning C4101: “LL0_14_1”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,254): warning C4101: “LL0_14_0”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,223): warning C4101: “rk_15_3_1”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,108): warning C4101: “R0_15_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,29): warning C4101: “tR0_15_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,158): warning C4101: “rk_15_2_5”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,35): warning C4101: “L0_15”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,202): warning C4101: “rk_15_2_0”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,425): warning C4101: “LL1_14_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,292): warning C4101: “LL0_14_2”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,179): warning C4101: “rk_15_3_5”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,157): warning C4101: “tRR1_15_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,50): warning C4101: “R0_15”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(442,45): warning C4101: “k0v4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,435): warning C4101: “L1_14_1”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,283): warning C4101: “L0_14_2”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,190): warning C4101: “rk_15_3_3”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,139): warning C4101: “RR1_16”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(441,23): warning C4101: “t1”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,454): warning C4101: “L1_14_3”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,444): warning C4101: “LL1_14_1”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,234): warning C4101: “rk_15_3_7”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,127): warning C4101: “RR0_15_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,94): warning C4101: “LL0_16”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,245): warning C4101: “L0_14_0”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,99): warning C4101: “R0_15_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,70): warning C4101: “R1_15_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,39): warning C4101: “tRR0_15_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,340): warning C4101: “L0_14_3”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,302): warning C4101: “L0_14_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,169): warning C4101: “rk_15_3_2”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,397): warning C4101: “L1_14_2”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,321): warning C4101: “L0_14_1”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,79): warning C4101: “RR1_15_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,50): warning C4101: “tRR0_15_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,72): warning C4101: “LL1_15”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,65): warning C4101: “L1_15”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,42): warning C4101: “LL0_15”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(442,51): warning C4101: “k0v6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,368): warning C4101: “LL1_14_0”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,349): warning C4101: “LL0_14_3”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,311): warning C4101: “LL0_14_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,201): warning C4101: “rk_15_2_1”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,89): warning C4101: “RR1_15_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,147): warning C4101: “tR1_15_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,137): warning C4101: “tR1_15_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,80): warning C4101: “R1_15”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,212): warning C4101: “rk_15_2_7”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(429,168): warning C4101: “tRR1_15_6”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,213): warning C4101: “rk_15_2_4”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(428,124): warning C4101: “LL1_16”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(695,27): warning C4101: “R0”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(695,19): warning C4101: “L0”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(695,43): warning C4101: “k2”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(695,31): warning C4101: “R1”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(695,39): warning C4101: “k1”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(695,35): warning C4101: “k0”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(695,23): warning C4101: “L1”: 未引用的局部变量
+D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\14-round distinguisher\14-round distinguisher.cpp(695,47): warning C4101: “k3”: 未引用的局部变量
+  正在生成代码
+  3 of 38 functions ( 7.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  14-round distinguisher.vcxproj -> D:\Paper Writing\Shadow\投稿---TC\大修\代码\Code\Key Recovery Attack\Round key_Guessing\14-round distinguisher\x64\Release\14-round distinguisher.exe
